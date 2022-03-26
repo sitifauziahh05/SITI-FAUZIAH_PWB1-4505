@@ -24,11 +24,7 @@ a {
 	content:'';
 	display: block;
 	clear: both;
-}
-header h1 {
-	float: left;
-	padding:15px 0;
-	color: #F2789F;
+
 }
 header ul {
 	float: right;
